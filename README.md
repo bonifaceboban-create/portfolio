@@ -40,3 +40,4 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 🔍 We developed interactive Power BI dashboards for finance, sales, marketing, supply chain, and executive insights.  
 📈 Empowered AtliQ with data-driven strategies for growth.
 ![imgae](BI360.jpg)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODE4NDQyNTMtOTJmZC00MjRiLWI4MWUtNTFlZGRhZDIwYjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=931b63cfc48963c6886a)
